@@ -20,6 +20,7 @@ choco install poshgit
 choco install windbg
 choco install nugetpackagemanager
 choco install dngrep
-choco install adobereader
+#choco install adobereader
 choco install 7zip.install
 #choco install sql-server-management-studio
+read-host "Press ENTER to continue..."

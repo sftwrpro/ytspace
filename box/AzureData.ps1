@@ -20,3 +20,4 @@ choco install servicebusexplorer
 choco install bicep
 choco install vscode-csharp
 choco install microsoft-vsteam-psmodule
+read-host "Press ENTER to continue..."
