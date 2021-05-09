@@ -1,23 +1,24 @@
+#choco install ssms
 choco install azure-cli
 choco install azure-pipelines-agent
 choco install aztoolkit
 choco install azcopy
 choco install microsoftazurestorageexplorer
-choco install azurepowershell
 choco install azure-cosmosdb-emulator
 choco install azure-pipelines-agent
 choco install azure-data-studio-sql-server-admin-pack
 choco install azure-data-studio
-choco install vscode-azure-deploy
 choco install azurestorageemulator
 choco install azurepowershell
 choco install visualstudio2019-workload-azurebuildtools
 choco install azswitch
+choco install vscode
+choco install vscode-azure-deploy
 choco install vscode-azurerm-tools
+choco install vscode-csharp
 choco install azuredatastudio-powershell
 choco install cosmosdbexplorer
 choco install servicebusexplorer
 choco install bicep
-choco install vscode-csharp
 choco install microsoft-vsteam-psmodule
 read-host "Press ENTER to continue..."
